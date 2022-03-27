@@ -11,6 +11,7 @@
   inputs.src-nimlsp-master.ref   = "refs/heads/master";
   inputs.src-nimlsp-master.owner = "PMunch";
   inputs.src-nimlsp-master.repo  = "nimlsp";
+  inputs.src-nimlsp-master.dir   = "";
   inputs.src-nimlsp-master.type  = "github";
   
   inputs."jsonschema".owner = "nim-nix-pkgs";
