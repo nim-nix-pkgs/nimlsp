@@ -11,7 +11,6 @@
   inputs.src-nimlsp-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-nimlsp-v0_2_2.owner = "PMunch";
   inputs.src-nimlsp-v0_2_2.repo  = "nimlsp";
-  inputs.src-nimlsp-v0_2_2.dir   = "";
   inputs.src-nimlsp-v0_2_2.type  = "github";
   
   inputs."astpatternmatching".owner = "nim-nix-pkgs";
