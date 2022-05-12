@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651917725,
-        "narHash": "sha256-zyVuWvRIeSQKGh0gAvS5grTP7CHBjU9UgiDSU/vNdtQ=",
+        "lastModified": 1652390867,
+        "narHash": "sha256-yRM74z9qiRQioROwVJAc3e7U0I2Y/jsYVnj9+D9yNcc=",
         "owner": "nim-nix-pkgs",
         "repo": "ast_pattern_matching",
-        "rev": "4f1f5641bcad465c037828d220c6fe8be33e3473",
+        "rev": "596b052769b696cb7623afe7012e4a90d4ddf6d5",
         "type": "github"
       },
       "original": {
@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651919063,
-        "narHash": "sha256-qzAJBvZVv/0B4MpBwW8gZigkD8/LMtgrlpfPq9Z4FSc=",
+        "lastModified": 1652392217,
+        "narHash": "sha256-nW7t9Rfwh4rafMt6GtO/J6shQI3aXWfr3SrRrAu2f8c=",
         "owner": "nim-nix-pkgs",
         "repo": "jsonschema",
-        "rev": "09efd5ecd11ff822f5005fcf07b69aa23c68926f",
+        "rev": "5d77b081c1d3acae8f4299f5b45a1ea0db6be98f",
         "type": "github"
       },
       "original": {
@@ -134,11 +134,11 @@
     "src-nimlsp-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1648056315,
-        "narHash": "sha256-Mf9bsKNHHxcd/5c7Y85KpEe88T+IInNIF9y5Ud/IfN4=",
+        "lastModified": 1652126717,
+        "narHash": "sha256-1K1lxIUsmjuC2k42VZ19J1Lv2Lw0Qmz27yPqKorefAs=",
         "owner": "PMunch",
         "repo": "nimlsp",
-        "rev": "3f9db4d1b690b569df098990e0be93f6f720e0a8",
+        "rev": "91c6340266f70611130f5bdc2971e70405122fda",
         "type": "github"
       },
       "original": {
